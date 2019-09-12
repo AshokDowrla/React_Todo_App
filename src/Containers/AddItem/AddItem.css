@@ -1,0 +1,27 @@
+
+
+.AddItem{
+    width:500px;
+height:35px;
+   border-radius: 5px;
+   background:#fff;	
+    border-width:medium;
+    border-style: solid;
+    box-shadow: none;
+    border-color:rgb(206, 206, 201);
+    padding-left: 8px;
+    right:20px;
+    position: relative;
+    font-size:18px;
+font-weight:600;
+}
+
+.AddButton{
+    display: inline-block;
+    cursor: pointer;
+    font-size:16px;
+    font-weight:500;
+    padding-right: 10px;
+padding-left: 10px;
+}
+
